@@ -2,7 +2,8 @@
   <div id="app">
     <nav>
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About-me</router-link>
+      <router-link to="/about">About-me</router-link> |
+      <router-link to="/link_game">消消乐小游戏</router-link>
     </nav>
     <router-view/>
   </div>
